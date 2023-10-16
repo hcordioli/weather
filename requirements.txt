@@ -2,7 +2,10 @@ streamlit
 matplotlib
 plotly
 plotly_express==0.4.1
+plotly_graph_objects
+plotly_express
 folium
 shapely
 branca
 geopandas
+streamlit-folium
