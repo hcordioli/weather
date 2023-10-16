@@ -1,7 +1,7 @@
 streamlit
 matplotlib
-plotly-express
-plotly-graph_objects
+plotly_express
+plotly_graph_objects
 folium
 shapely
 branca
