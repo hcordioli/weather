@@ -1,4 +1,8 @@
 streamlit
 matplotlib
-plotly
-plotly_express
+plotly-express
+plotly-graph_objects
+folium
+shapely
+branca
+geopandas
