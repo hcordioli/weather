@@ -8,7 +8,6 @@ import matplotlib.pyplot as plt
 import branca 
 from branca.colormap import linear
 from plotly.subplots import make_subplots
-import plotly.graph_objects as go
 import folium
 from folium.plugins import MarkerCluster
 from shapely.geometry import Point, Polygon
